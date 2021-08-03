@@ -1,0 +1,90 @@
+body{
+  background-image: url("https://i.pinimg.com/originals/7c/31/03/7c3103087af1178aaab9b9bd79e93260.jpg");
+  backface-visibility: visible;
+  background-blend-mode: hard-light;
+  background-size: 3%;
+  align-items: center;
+  align-content: center;
+
+}
+
+h1,h3{
+  background-color: blueviolet;
+  opacity: 80%;
+  width: 200px;
+  text-align: left;
+}
+h2{
+  background-color: fuchsia;
+  opacity: 80%;
+  width: 200px;
+  text-align: center;
+}
+h3{
+  background-color:  lightcyan;
+  opacity: 80%;
+  width: 200px;
+  text-align: right;
+
+}
+
+.hd{
+  background-color: teal;
+  opacity: 50%;
+  color:aquamarine;
+  width: 100px;
+  text-align: center;
+
+}
+
+p{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.first{
+  background-color: greenyellow;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color:brown;
+  width:700px;
+ position:initial;
+ border: 0px
+}
+p{
+  background-color: cyan;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color:darkmagenta;
+  opacity: 50%;
+  width:700px;
+ position:initial;
+ border: 0px
+
+
+}
+img{
+  margin:50px;
+  border:none;
+  border-radius:50%;
+  width: 400px;
+}
+table{
+  margin:100px;
+  border: solid;
+}
+tr{
+  margin:15px;
+  padding:5px;
+  border:dotted;
+  border-color: red;
+}
+td{
+  margin:15px;
+  padding:5px;
+  border:dotted;
+  border-color: red;
+}
+th{
+  margin:15px;
+  padding:5px;
+  border:dashed;
+  border-color: white;
+}
